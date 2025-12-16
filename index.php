@@ -1,2 +1,2 @@
 <?php 
-html_entity_decode?>
+echo"html_entity_decode"?>
